@@ -1,0 +1,5 @@
+.env
+.idea
+.vscode
+main
+.DS_Store
